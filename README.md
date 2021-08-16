@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dornam
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dorna
+- 👀 I’m interested in Java and object oriented programming languages. 
+- 🌱 I’m currently learning advanced Java, Javascript and its libraries like Node.Js and React
+- 📫 How to reach me, well send me an email
 
 <!---
 dornam/dornam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
